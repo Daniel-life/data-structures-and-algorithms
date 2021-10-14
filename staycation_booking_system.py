@@ -349,4 +349,5 @@ def linear_search(room_data):
 
 while True:
     if menu():
-        breaka
+        break
+        
